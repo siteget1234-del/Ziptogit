@@ -1,0 +1,6 @@
+{
+  "name": "ZiptoGit",
+  "description": "Upload a ZIP file and sync it directly to a GitHub repository—no Git CLI required.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
